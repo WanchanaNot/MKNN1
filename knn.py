@@ -6,7 +6,7 @@ import matplotlib.pyplot as plt
 
 
 st.header('Wanchana')
-st.image("./img/Wanchana.jpg")
+#st.image("./img/Wanchana.jpg")
 col1, col2, col3 = st.columns(3)
 
 with col1:
